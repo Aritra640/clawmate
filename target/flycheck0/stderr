@@ -1,0 +1,4 @@
+    Blocking waiting for file lock on package cache
+error: no matching package named `engine` found
+location searched: /Users/aritrachatterjee/Developer/clawmate/clawengine
+required by package `clawboard v0.1.0 (/Users/aritrachatterjee/Developer/clawmate/clawboard)`

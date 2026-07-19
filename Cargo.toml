@@ -1,0 +1,3 @@
+[workspace]
+members = ["clawboard", "clawengine"]
+resolver = "3"
